@@ -1,0 +1,27 @@
+h1 {
+    margin: auto;
+    text-align: center;
+    color: #ff0000;
+  
+}
+p {
+   text-align: center;
+   text-decoration: underline;
+   color: #ff0000;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h3 {
+    text-align: center;
+    color: #ff0000;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 18px;
+}
+h4 {
+    color: #ff0000;
+    font-family:'Courier New', Courier, monospace;
+
+}
+a {
+    text-decoration: none;
+    color: #ff0000;
+}
